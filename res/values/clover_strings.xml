@@ -307,6 +307,9 @@
     <string name="use_gpu_for_screen_composition_title">Use GPU for screen composition</string>
     <string name="use_gpu_for_screen_composition_summary">Select apps that should disable HW overlays while in use</string>
 
+    <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize the adaptive icon shape (e.g. launcher and quick settings icons). -->
+    <string name="theme_customization_icon_shape_title">Icon shape</string>
+
     <!-- Hide screen capture & Ignore secure window status -->
     <string name="screen_capture_controls_title">Screen capture controls</string>
     <string name="screen_capture_controls_summary">Manage how screenshots work. You can hide capture status and allow screenshots in protected apps. In some cases, this may lead to privacy leaks.</string>
